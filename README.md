@@ -22,6 +22,8 @@ GUI Framework	Swing, AWT
 Database	MySQL
 Connectivity	JDBC
 IDE	IntelliJ IDEA / VS Code / Eclipse
+
+
 4. Project Folder Structure
 employee_management_system/
 │
@@ -88,9 +90,9 @@ javac *.java
 java Main_class
 
 7. Future Enhancements
-Implement role-based access (Admin / HR)
-Add search and filter features
-Export employee data to Excel or PDF
-Add attendance management module
-Improve UI using JavaFX
+Implement role-based access (Admin / HR) ,
+Add search and filter features ,
+Export employee data to Excel or PDF ,
+Add attendance management module ,
+Improve UI using JavaFX .
 
